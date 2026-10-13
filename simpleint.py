@@ -1,4 +1,4 @@
-float(input("Enter principal amount: "))
+p = float(input("Enter principal amount: "))
 r = float(input("Enter rate of interest: "))
 t = float(input("Enter time in years: "))
 
